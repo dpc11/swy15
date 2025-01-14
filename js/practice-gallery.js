@@ -306,93 +306,161 @@ const inlineGallery1 = lightGallery(lgContainer1, {
     height: '100%',
     plugins: [lgZoom, lgThumbnail, lgAutoplay],
     dynamicEl: [
+
+        {
+            src: '../images/practice/练习/スプラトゥーンの黒いイカ.jpg',
+            thumb: '../images/practice/练习/スプラトゥーンの黒いイカ.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">スプラトゥーンの黒いイカ.jpg</h5>
+            </div>`,
+        },
         {
             src: '../images/practice/练习/Cult of the Lamb.png',
             thumb: '../images/practice/练习/Cult of the Lamb.png',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">Cult of the Lamb.png</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/アニメ『らんま12』のウサギ耳の女の子のイラスト.jpg',
             thumb: '../images/practice/练习/アニメ『らんま12』のウサギ耳の女の子のイラスト.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">アニメ『らんま12』のウサギ耳の女の子のイラスト.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/アライグマ.jpg',
             thumb: '../images/practice/练习/アライグマ.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">アライグマ.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/クジャク初音.png',
             thumb: '../images/practice/练习/クジャク初音.png',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">クジャク初音.png</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/ゲームコンセプトデザイン.jpg',
             thumb: '../images/practice/练习/ゲームコンセプトデザイン.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">ゲームコンセプトデザイン.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/サーカスのイラストのラフスケッチ.jpg',
             thumb: '../images/practice/练习/サーカスのイラストのラフスケッチ.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">サーカスのイラストのラフスケッチ.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/ジョジョのアニメのブチャラティの同人.jpg',
             thumb: '../images/practice/练习/ジョジョのアニメのブチャラティの同人.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">ジョジョのアニメのブチャラティの同人.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/スプラトゥーンの青いイカが街中に立っている.jpg',
             thumb: '../images/practice/练习/スプラトゥーンの青いイカが街中に立っている.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">スプラトゥーンの青いイカが街中に立っている.jpg</h5>
+            </div>`,
         },
-        {
-            src: '../images/practice/练习/スプラトゥーンの黒いイカ.jpg',
-            thumb: '../images/practice/练习/スプラトゥーンの黒いイカ.jpg',
-        },
+
         {
             src: '../images/practice/练习/パンダ初音.jpg',
             thumb: '../images/practice/练习/パンダ初音.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">パンダ初音.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/フウカ.jpg',
             thumb: '../images/practice/练习/フウカ.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">フウカ.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/ミファー.png',
             thumb: '../images/practice/练习/ミファー.png',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">ミファー.png</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/二人の.jpg',
             thumb: '../images/practice/练习/二人の.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">二人の.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/二宫和也 musicpost.jpg',
             thumb: '../images/practice/练习/二宫和也 musicpost.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">二宫和也 musicpost.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/大きなスカートがひらひらと舞う女の子のイラスト，制作時間2時間.jpg',
             thumb: '../images/practice/练习/大きなスカートがひらひらと舞う女の子のイラスト，制作時間2時間.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">大きなスカートがひらひらと舞う女の子のイラスト，制作時間2時間.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/女らんまが小豚を捕まえた.jpg',
             thumb: '../images/practice/练习/女らんまが小豚を捕まえた.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">女らんまが小豚を捕まえた.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/怪奇ゾーングラビティフォールズのイラスト、制作時間2時間.png',
             thumb: '../images/practice/练习/怪奇ゾーングラビティフォールズのイラスト、制作時間2時間.png',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">怪奇ゾーングラビティフォールズのイラスト、制作時間2時間.png</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/猫耳メイドのイラスト.jpg',
             thumb: '../images/practice/练习/猫耳メイドのイラスト.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">猫耳メイドのイラスト.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/白虎と着物.jpg',
             thumb: '../images/practice/练习/白虎と着物.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">白虎と着物.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/赤ずきんちゃんが森の中を歩いている.jpg',
             thumb: '../images/practice/练习/赤ずきんちゃんが森の中を歩いている.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">赤ずきんちゃんが森の中を歩いている.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/銀魂の三人が座っている.jpg',
             thumb: '../images/practice/练习/銀魂の三人が座っている.jpg',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">銀魂の三人が座っている.jpg</h5>
+            </div>`,
         },
         {
             src: '../images/practice/练习/黒神話：悟空.png',
             thumb: '../images/practice/练习/黒神話：悟空.png',
+            subHtml: `<div class="lightGallery-captions">
+                <h5 style="color: #ffffff">黒神話：悟空.png</h5>
+            </div>`,
         },
     ],
     thumbWidth: 100,

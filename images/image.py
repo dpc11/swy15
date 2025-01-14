@@ -1,12 +1,12 @@
 import os
 
 images = ""
-for subdir, dirs, files in os.walk("C:\\Users\\dpc11\\Documents\\swy15\\images\\freelance\\商業用原稿"):
+for subdir, dirs, files in os.walk("C:\\Users\\dpc11\\Documents\\swy15\\images\\school\\素描"):
     for file in files:
         print( """{{
-            src: '../images/freelance/商業用原稿/{}',
-            thumb: '../images/freelance/商業用原稿/{}',
+            src: '../images/school/素描/{}',
+            thumb: '../images/school/素描/{}',
              subHtml: `<div class="lightGallery-captions">
-                <h3 style="color: #ffffff">{}</h3>
+                <h5 style="color: #ffffff">{}</h5>
             </div>`,
             }},""".format(file, file, file))
