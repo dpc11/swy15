@@ -1677,9 +1677,9 @@ header .header-logo a {
   background-image: url(../images/rustle/海报.jpg);
   background-repeat: no-repeat;
   background-position: center 20%;
-  -webkit-background-size: auto 100%;
-  -moz-background-size: auto 100%;
-  background-size: auto 100%;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
   background-attachment: fixed;
   min-height: 804px;
   position: relative;
