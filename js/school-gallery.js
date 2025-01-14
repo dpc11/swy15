@@ -20,18 +20,6 @@ const inlineGallery = lightGallery(lgContainer, {
     plugins: [lgZoom, lgThumbnail, lgAutoplay],
     dynamicEl: [
         {
-            src: '../images/school/作品/2016年欧米のゲームアイテムデザイン.jpg',
-            thumb: '../images/school/作品/2016年欧米のゲームアイテムデザイン.jpg',
-        },
-        {
-            src: '../images/school/作品/2016年欧米のゲームコンセプトアート.jpg',
-            thumb: '../images/school/作品/2016年欧米のゲームコンセプトアート.jpg',
-        },
-        {
-            src: '../images/school/作品/2017ゲームのシーンイラスト.jpg',
-            thumb: '../images/school/作品/2017ゲームのシーンイラスト.jpg',
-        },
-        {
             src: '../images/school/作品/2018年キャラクターデザイン1.png',
             thumb: '../images/school/作品/2018年キャラクターデザイン1.png',
         },
@@ -47,6 +35,19 @@ const inlineGallery = lightGallery(lgContainer, {
             src: '../images/school/作品/2018年キャラクターデザイン4.png',
             thumb: '../images/school/作品/2018年キャラクターデザイン4.png',
         },
+        {
+            src: '../images/school/作品/2016年欧米のゲームアイテムデザイン.jpg',
+            thumb: '../images/school/作品/2016年欧米のゲームアイテムデザイン.jpg',
+        },
+        {
+            src: '../images/school/作品/2016年欧米のゲームコンセプトアート.jpg',
+            thumb: '../images/school/作品/2016年欧米のゲームコンセプトアート.jpg',
+        },
+        {
+            src: '../images/school/作品/2017ゲームのシーンイラスト.jpg',
+            thumb: '../images/school/作品/2017ゲームのシーンイラスト.jpg',
+        },
+
     ],
     thumbWidth: 100,
     thumbHeight: "80px",
@@ -78,14 +79,7 @@ const inlineGallery1 = lightGallery(lgContainer1, {
     height: '100%',
     plugins: [lgZoom, lgThumbnail, lgAutoplay],
     dynamicEl: [
-        {
-            src: '../images/school/素描/2015年に制作された少女の素描.jpg',
-            thumb: '../images/school/素描/2015年に制作された少女の素描.jpg',
-        },
-        {
-            src: '../images/school/素描/2015年に制作された線画.jpg',
-            thumb: '../images/school/素描/2015年に制作された線画.jpg',
-        },
+
         {
             src: '../images/school/素描/2015年に制作された老人の素描1.jpg',
             thumb: '../images/school/素描/2015年に制作された老人の素描1.jpg',
@@ -101,6 +95,14 @@ const inlineGallery1 = lightGallery(lgContainer1, {
         {
             src: '../images/school/素描/2016年に制作された素描.jpg',
             thumb: '../images/school/素描/2016年に制作された素描.jpg',
+        },
+        {
+            src: '../images/school/素描/2015年に制作された少女の素描.jpg',
+            thumb: '../images/school/素描/2015年に制作された少女の素描.jpg',
+        },
+        {
+            src: '../images/school/素描/2015年に制作された線画.jpg',
+            thumb: '../images/school/素描/2015年に制作された線画.jpg',
         },
         {
             src: '../images/school/素描/2016年に制作された線画.jpg',
