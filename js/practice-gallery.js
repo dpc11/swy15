@@ -20,9 +20,14 @@ const inlineGallery = lightGallery(lgContainer, {
     plugins: [lgZoom, lgThumbnail, lgAutoplay],
     dynamicEl: [
         {
-            src: '../images/practice/色彩/10.1.jpg',
-            thumb: '../images/practice/色彩/10.1.jpg',
+            src: '../images/practice/色彩/10.16.jpg',
+            thumb: '../images/practice/色彩/10.16.jpg',
         },
+        {
+            src: '../images/practice/色彩/10.24.jpg',
+            thumb: '../images/practice/色彩/10.24.jpg',
+        },
+
         {
             src: '../images/practice/色彩/10.10.jpg',
             thumb: '../images/practice/色彩/10.10.jpg',
@@ -47,10 +52,7 @@ const inlineGallery = lightGallery(lgContainer, {
             src: '../images/practice/色彩/10.15.jpg',
             thumb: '../images/practice/色彩/10.15.jpg',
         },
-        {
-            src: '../images/practice/色彩/10.16.jpg',
-            thumb: '../images/practice/色彩/10.16.jpg',
-        },
+
         {
             src: '../images/practice/色彩/10.17.jpg',
             thumb: '../images/practice/色彩/10.17.jpg',
@@ -79,10 +81,7 @@ const inlineGallery = lightGallery(lgContainer, {
             src: '../images/practice/色彩/10.23.jpg',
             thumb: '../images/practice/色彩/10.23.jpg',
         },
-        {
-            src: '../images/practice/色彩/10.24.jpg',
-            thumb: '../images/practice/色彩/10.24.jpg',
-        },
+
         {
             src: '../images/practice/色彩/10.25.jpg',
             thumb: '../images/practice/色彩/10.25.jpg',
@@ -130,6 +129,10 @@ const inlineGallery = lightGallery(lgContainer, {
         {
             src: '../images/practice/色彩/10.7.jpg',
             thumb: '../images/practice/色彩/10.7.jpg',
+        },
+        {
+            src: '../images/practice/色彩/10.1.jpg',
+            thumb: '../images/practice/色彩/10.1.jpg',
         },
         {
             src: '../images/practice/色彩/10.8.jpg',

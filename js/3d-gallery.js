@@ -32,11 +32,24 @@ const inlineGallery = lightGallery(lgContainer, {
             src: '../images/3d/Snipaste_2025-01-12_22-53-48.jpg',
             thumb: '../images/3d/Snipaste_2025-01-12_22-53-48.jpg',
         },
+        {
+            src: '../images/3d/练习1.jpg',
+            thumb: '../images/3d/练习1.jpg',
+        },
+        {
+            src: '../images/3d/练习2.jpg',
+            thumb: '../images/3d/练习2.jpg',
+        },
+        {
+            src: '../images/3d/练习3.jpg',
+            thumb: '../images/3d/练习3.jpg',
+        },
 
         {
-            src: '../images/3d/Snipaste_2025-01-12_22-54-48.jpg',
-            thumb: '../images/3d/Snipaste_2025-01-12_22-54-48.jpg',
+            src: '../images/3d/Snipaste_2025-01-12_22-54-02.jpg',
+            thumb: '../images/3d/Snipaste_2025-01-12_22-54-02.jpg',
         },
+
         {
             src: '../images/3d/ssssss.jpg',
             thumb: '../images/3d/ssssss.jpg',
@@ -45,10 +58,7 @@ const inlineGallery = lightGallery(lgContainer, {
             src: '../images/3d/Snipaste_2025-01-12_18-11-48.jpg',
             thumb: '../images/3d/Snipaste_2025-01-12_18-11-48.jpg',
         },
-        {
-            src: '../images/3d/Snipaste_2025-01-12_22-54-02.jpg',
-            thumb: '../images/3d/Snipaste_2025-01-12_22-54-02.jpg',
-        },
+
         {
             src: '../images/3d/Snipaste_2025-01-12_22-54-21.jpg',
             thumb: '../images/3d/Snipaste_2025-01-12_22-54-21.jpg',
