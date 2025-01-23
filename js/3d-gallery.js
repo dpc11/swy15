@@ -32,18 +32,7 @@ const inlineGallery = lightGallery(lgContainer, {
             src: '../images/3d/Snipaste_2025-01-12_22-53-48.jpg',
             thumb: '../images/3d/Snipaste_2025-01-12_22-53-48.jpg',
         },
-        {
-            src: '../images/3d/练习1.jpg',
-            thumb: '../images/3d/练习1.jpg',
-        },
-        {
-            src: '../images/3d/练习2.jpg',
-            thumb: '../images/3d/练习2.jpg',
-        },
-        {
-            src: '../images/3d/练习3.jpg',
-            thumb: '../images/3d/练习3.jpg',
-        },
+        
 
         {
             src: '../images/3d/Snipaste_2025-01-12_22-54-02.jpg',
@@ -88,26 +77,12 @@ const inlineGallery = lightGallery(lgContainer, {
             src: '../images/3d/X4.jpg',
             thumb: '../images/3d/X4.jpg',
         },
-        {
-            src: '../images/3d/图片a1.png',
-            thumb: '../images/3d/图片a1.png',
-        },
+        
         {
             src: '../images/3d/完成图.jpg',
             thumb: '../images/3d/完成图.jpg',
         },
-        {
-            src: '../images/3d/微信图片_20250112173134.png',
-            thumb: '../images/3d/微信图片_20250112173134.png',
-        },
-        {
-            src: '../images/3d/微信图片_20250112173256.jpg',
-            thumb: '../images/3d/微信图片_20250112173256.jpg',
-        },
-        {
-            src: '../images/3d/微信图片_20250112173301.jpg',
-            thumb: '../images/3d/微信图片_20250112173301.jpg',
-        },
+        
     ],
     thumbWidth: 100,
     thumbHeight: "80px",
